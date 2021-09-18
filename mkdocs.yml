@@ -2,10 +2,10 @@ site_name: Danish Language Resources
 site_description: Resources and information for English-speakers learning Danish
 site_author: James P. Howard, II
 copyright: Copyright &copy; 2015&mdash;2021 James P. Howard, II.
-site_url: https://jamesohward.us/dansk
+site_url: https://jamesohward.us/danish-language-resources
 
-repo_name: 'k3jph/dansk'
-repo_url: https://github.com/k3jph/dansk
+repo_name: 'k3jph/danish-language-resources'
+repo_url: https://github.com/k3jph/danish-language-resources
 
 use_directory_urls: true
 
