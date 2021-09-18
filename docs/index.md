@@ -34,8 +34,8 @@ sense, but the course was not yet available.
 
 This page exists to collect resources from around the Internet,
 principally YouTube, to help students learning Danish and provide
-a catalog for my own use.  Please feel free to [suggest additional
-material](/contact-me/) or add it in the comments.
+a catalog for my own use.  Please feel free to suggest additional
+material.
 
 ## Contributing
 

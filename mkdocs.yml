@@ -1,8 +1,8 @@
 site_name: Danish Language Resources
 site_description: Resources and information for English-speakers learning Danish
 site_author: James P. Howard, II
-copyright: Copyright &copy; 2015&mdash;2020 James P. Howard, II.
-site_url: https://k3jph.github.io/dansk
+copyright: Copyright &copy; 2015&mdash;2021 James P. Howard, II.
+site_url: https://jamesohward.us/dansk
 
 repo_name: 'k3jph/dansk'
 repo_url: https://github.com/k3jph/dansk
@@ -10,14 +10,14 @@ repo_url: https://github.com/k3jph/dansk
 use_directory_urls: true
 
 nav:
-    - Welcome: index.md
-    - Memrise: memrise.md
-    - DanishClass101: danishclass101.md
-    - Danish Lessons with Marty: marty.md
-    - Podcasts: podcasts.md
-    - Chat: chat.md
-    - Playlists: playlists.md
-    - Humor: humor.md
+  - Welcome: index.md
+  - Memrise: memrise.md
+  - DanishClass101: danishclass101.md
+  - Danish Lessons with Marty: marty.md
+  - Podcasts: podcasts.md
+  - Chat: chat.md
+  - Playlists: playlists.md
+  - Humor: humor.md
 
 # Configuration
 theme:
@@ -29,23 +29,7 @@ theme:
   font:
     text: 'Roboto'
     code: 'Roboto Mono'
-  logo:
-    icon: 'group'
-  custom_dir: 'theme'
-
-# Customization
-extra:
-  manifest: 'manifest.webmanifest'
-  social:
-    - type: 'globe'
-      link: 'https://jameshoward.us'
-    - type: 'twitter'
-      link: 'https://twitter.com/k3jph'
-    - type: 'facebook'
-      link: 'https://www.facebook.com/k3jph'
-    - type: 'linkedin'
-      link: 'https://www.linkedin.com/in/k3jph'
-
+    
 # Google Analytics
 google_analytics:
   - 'UA-79581-13'
